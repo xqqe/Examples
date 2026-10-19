@@ -1,0 +1,2 @@
+sample_id,batch_id,culture_id,treatment,dose_uM,exposure_h,plate_id,well
+S0074,B03,C019,Compound_A,,24,P03,D04

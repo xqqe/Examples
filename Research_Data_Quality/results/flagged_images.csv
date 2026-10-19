@@ -1,0 +1,11 @@
+image_id,sample_id,field_index,cell_count,live_cell_count,mean_fluorescence_au,focus_score,acquisition_date,batch_id,culture_id,treatment,dose_uM,exposure_h,plate_id,well,qc_unmatched_sample,qc_invalid_cell_count,qc_invalid_live_count,qc_invalid_fluorescence,qc_failed_focus,qc_invalid_field_index,qc_repeated_sample_field,qc_unresolved_condition,image_eligible_cell_count,image_eligible_viability,image_eligible_fluorescence,viability_fraction,eligible_dose_comparison
+IMG00073,S0019,1,115,105,,0.911,2026-09-07,B01,C005,Compound_A,1.0,24.0,P01,G01,False,False,False,True,False,False,False,False,True,True,False,0.9130434782608695,True
+IMG00152,S0038,4,181,171,347.35,0.31,2026-09-08,B02,C010,Compound_A,0.1,24.0,P02,G10,False,False,False,False,True,False,False,False,False,False,False,,True
+IMG00293,S0074,1,319,306,683.87,0.892,2026-09-09,B03,C019,Compound_A,,24.0,P03,D04,False,False,False,False,False,False,False,True,True,True,True,0.9592476489028213,False
+IMG00294,S0074,2,297,284,676.32,0.969,2026-09-09,B03,C019,Compound_A,,24.0,P03,D04,False,False,False,False,False,False,False,True,True,True,True,0.9562289562289562,False
+IMG00295,S0074,3,323,314,814.69,0.895,2026-09-09,B03,C019,Compound_A,,24.0,P03,D04,False,False,False,False,False,False,False,True,True,True,True,0.9721362229102167,False
+IMG00296,S0074,4,259,251,796.81,0.98,2026-09-09,B03,C019,Compound_A,,24.0,P03,D04,False,False,False,False,False,False,False,True,True,True,True,0.9691119691119691,False
+IMG00320,S0080,4,-17,141,1213.3,0.915,2026-09-09,B03,C020,Compound_A,10.0,24.0,P03,F01,False,True,True,False,False,False,False,False,False,False,False,,True
+IMG00404,S9999,4,189,180,520.55,0.888,2026-09-10,,,,,,,,True,False,False,False,False,False,False,True,False,False,False,,False
+IMG00483,S0121,3,181,999,567.17,0.859,2026-09-10,B04,C031,vehicle,0.0,24.0,P04,C05,False,False,True,False,False,False,False,False,True,False,True,,True
+IMG00558,S0140,2,126,175,1431.39,0.42,2026-09-11,B05,C035,Compound_A,10.0,24.0,P05,H11,False,False,True,False,True,False,False,False,False,False,False,,True

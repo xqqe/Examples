@@ -1,0 +1,9 @@
+check,flagged_rows
+qc_unmatched_sample,1
+qc_invalid_cell_count,1
+qc_invalid_live_count,3
+qc_invalid_fluorescence,1
+qc_failed_focus,2
+qc_invalid_field_index,0
+qc_repeated_sample_field,0
+qc_unresolved_condition,5

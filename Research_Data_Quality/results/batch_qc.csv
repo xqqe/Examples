@@ -1,0 +1,7 @@
+batch_id,blank_replicates,blank_median_au,blank_evaluable,blank_pass,fluorescence_replicates,fluorescence_median_au,fluorescence_evaluable,fluorescence_pass,viability_replicates,viability_median_fraction,viability_evaluable,viability_pass
+B01,3,22.51,True,True,3,929.74,True,True,3,0.95,True,True
+B02,3,27.43,True,True,3,1093.08,True,True,3,0.96,True,True
+B03,3,25.43,True,True,3,999.2,True,True,3,0.98,True,True
+B04,3,27.69,True,True,3,1133.32,True,True,3,0.965,True,True
+B05,3,24.91,True,True,3,991.94,True,True,3,0.95,True,True
+B06,3,45.21,True,True,3,1879.41,True,False,3,0.975,True,True

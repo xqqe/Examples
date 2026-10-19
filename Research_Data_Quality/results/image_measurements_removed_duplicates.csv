@@ -1,0 +1,4 @@
+image_id,sample_id,field_index,cell_count,live_cell_count,mean_fluorescence_au,focus_score,acquisition_date
+IMG00019,S0005,3,239,232,643.29,0.877,2026-09-07
+IMG00268,S0067,4,260,244,1149.78,0.866,2026-09-09
+IMG00709,S0178,1,197,188,1494.17,0.888,2026-09-12

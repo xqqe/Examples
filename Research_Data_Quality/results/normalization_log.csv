@@ -1,0 +1,6 @@
+table,csv_row,column,original,updated
+images,39,sample_id, S0010 ,S0010
+images,216,sample_id,s0054,S0054
+samples,15,treatment,compound_a,Compound_A
+samples,60,treatment,Compound A,Compound_A
+samples,98,treatment, Vehicle ,vehicle
